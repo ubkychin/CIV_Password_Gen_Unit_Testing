@@ -2,7 +2,7 @@
 
 namespace PasswordGenerator
 {
-        public class PasswordGenerator {
+        public class Generator {
 
         public string PasswordGenOne(string firstname, string lastname, int age) {
             throw new NotImplementedException();
